@@ -24,10 +24,15 @@ I am a student from Russia.
 
 - :books: At the moment I am a 3rd year student and am looking for something that will be interesting to me: computer security, machine learning or Java
 
-- :seedling: Exploring Technical Content Writing.
+- :skull_and_crossbones: Trying to survive
 
 - :video_game: In my free time I like to study something interesting or play games
 
-
-
 ---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+</div>
