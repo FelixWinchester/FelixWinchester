@@ -4,7 +4,7 @@
     <a href="https://vk.com/anthony_winchester">
       <img src="https://img.shields.io/badge/VKontakte-gray?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
     </a>
-    <a href="@anthony_winchester">
+    <a href="telegram.me/anthony_winchester">
       <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
     <h1>
