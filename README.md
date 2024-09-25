@@ -31,7 +31,7 @@ I am a student from Russia.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align = "center">
   <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -40,6 +40,8 @@ I am a student from Russia.
 ---
 
 ### :snowflake: My stats :
+<div align = "center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixWinchester&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
