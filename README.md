@@ -19,8 +19,9 @@
 </div>
 
 ---
-  
+<div align = "center">
 ### :man_technologist: About Me :
+</div>
 I am a student from Russia.
 
 - :books: At the moment I am a 3rd year student and am looking for something that will be interesting to me: computer security, machine learning or Java
