@@ -40,8 +40,7 @@ I am a student from Russia.
 <img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 
 ---
-<div align = "center">
+
 :snowflake: My stats :
-</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixWinchester&layout=compact&theme=vision-friendly-dark)
 
