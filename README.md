@@ -47,4 +47,6 @@ I am a student from Russia.
   
 # いつか終わることを願っている。
 
+---
+
 </div>
