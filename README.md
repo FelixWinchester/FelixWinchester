@@ -47,4 +47,6 @@ I am a student from Russia.
   
 # いつか終わることを願っている。
 
+<img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGk5ZDlrNnUyaXI2bjRhNDh1aDM0cDQ2Znlrcjl6a2xzMDU5bmZtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kXdo4BgGoFC80/giphy.webp" width = "300">
+
 </div>
