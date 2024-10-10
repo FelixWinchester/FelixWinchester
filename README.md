@@ -19,7 +19,7 @@
 </div>
 
 ---
-:man_technologist: About Me :
+### :man_technologist: About Me :
 I am a student from Russia.
 
 - :books: At the moment I am a 3rd year student and am looking for something that will be interesting to me: computer security, machine learning or Java
@@ -29,7 +29,7 @@ I am a student from Russia.
 - :video_game: In my free time I like to study something interesting or play games
 
 ---
-:hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 
 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
