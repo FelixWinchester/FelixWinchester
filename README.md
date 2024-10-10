@@ -22,11 +22,11 @@
 ### :man_technologist: About Me :
 I am a student from Russia.
 
-- :books: At the moment I am a 3rd year student and am looking for something that will be interesting to me: computer security, machine learning or Java
+- :books: I am in my 3rd year of college and am currently on the lookout for something I will enjoy working with in the future. I can't decide once and for sure what attracts me more: Computer Security, Java Development or Machine Learning....
 
 - :skull_and_crossbones: Trying to survive
 
-- :video_game: In my free time I like to study something interesting or play games
+- :video_game: In my free time I like to study something new and interesting, whether it is a foreign language, programming language or something else. 
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
