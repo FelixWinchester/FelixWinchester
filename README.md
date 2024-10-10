@@ -41,3 +41,7 @@ I am a student from Russia.
 ### :snowflake: My stats :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixWinchester&layout=compact&theme=vision-friendly-dark)
 
+---
+
+<img src = "https://i.pinimg.com/564x/72/c6/ad/72c6adee37eff32cdf809c16a3c53359.jpg" width = "300">
+
