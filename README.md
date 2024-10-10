@@ -26,7 +26,7 @@ I am a student from Russia.
 
 - :skull_and_crossbones: Trying to survive
 
-- :video_game: In my free time I like to study something new and interesting, whether it is a foreign language, programming language or something else. 
+- :video_game: In my free time I like to study something new and interesting, whether it is a foreign language, programming language or something else. If I don't feel like doing that, I can play some computer games, watch anime or doramas, or go for a walk. 
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
