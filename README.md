@@ -44,5 +44,5 @@ I am a student from Russia.
 ---
 
 <div align = "center">
-<img src = "https://www.pngmart.com/files/23/Black-Rose-PNG-Isolated-Pic.png" width = "300">
+<img src = "https://i.pinimg.com/564x/5d/91/0c/5d910c86c036cfef79fd84801995f3a7.jpg" width = "300">
 </div>
