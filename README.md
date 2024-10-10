@@ -43,5 +43,6 @@ I am a student from Russia.
 
 ---
 
-<img src = "https://i.pinimg.com/564x/72/c6/ad/72c6adee37eff32cdf809c16a3c53359.jpg" width = "300">
-
+<div align = "center">
+<img src = "https://www.pngmart.com/files/13/Sad-Anime-Boy-Transparent-PNG.png" width = "300">
+</div>
