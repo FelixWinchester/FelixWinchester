@@ -38,6 +38,8 @@ I am a student from Russia.
 <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "GIT" alt = "GIT" width ="40" height = "40"/>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title = "HTML5" alt = "HTML5" width ="40" height = "40"/>&nbsp;
 <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title = "JavaScript" alt = "JavaScript" width = "40" height = "40"/>&nbsp;
+<img src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title = "Photoshop" alt = "Photoshop" width = "40" height = "40"/>&nbsp;
+
 ---
 
 ### :snowflake: My stats :
