@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFkc3R3cmZsc29iemxpcmZ4MzFnbmsxOGUydHhsNzFyYXBlbXYwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FHhTPPSCm6h5m/giphy.webp" width="239">
   <div id="badges">
-    <a href="https://vk.com/anthony_winchester">
+    <a href="https://vk.com/anthony__winchester">
       <img src="https://img.shields.io/badge/VKontakte-gray?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
     </a>
-    <a href="https://telegram.me/anthony_winchester">
+    <a href="https://telegram.me/anthony__winchester">
       <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
     <h1>
