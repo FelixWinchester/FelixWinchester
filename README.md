@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFkc3R3cmZsc29iemxpcmZ4MzFnbmsxOGUydHhsNzFyYXBlbXYwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FHhTPPSCm6h5m/giphy.webp" width="239">
+  <img src="https://i.pinimg.com/originals/05/24/e5/0524e549a4c26b0baa20d102cb2e1aa4.gif" width="239">
   <div id="badges">
     <a href="https://vk.com/anthony_winchester">
       <img src="https://img.shields.io/badge/VKontakte-gray?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
