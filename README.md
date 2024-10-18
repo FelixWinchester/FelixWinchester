@@ -21,7 +21,6 @@
 ---
 
 ### :man_technologist: About Me :
-I am a student from Russia.
 
 - :books: I am in my 3rd year of university and am currently on the lookout for something I will enjoy working with in the future. I can't decide once and for sure what attracts me more: Computer Security, Java Development or Machine Learning....
 
