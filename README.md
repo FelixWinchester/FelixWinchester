@@ -48,7 +48,7 @@
 ---
 
 <div align = "center">
-<h1>
+<h1 align = "center">
 いつか終わることを願っている。
 <img src = "https://i.pinimg.com/originals/1b/83/3c/1b833c993c0f583e0b2bc3de2231fa24.gif" width = "500">
 </h1>
