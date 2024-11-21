@@ -29,7 +29,9 @@
 - :video_game: In my free time I like to study something new and interesting, whether it is a foreign language, programming language or something else. If I don't feel like doing that, I can play some computer games, watch anime or doramas, or go for a walk. 
 
 - :desktop_computer: OS: Arch Linux and MacOS.
+  
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align = "center">
@@ -44,6 +46,7 @@
 
 </div>
 
+---
 
 ### :snowflake: My stats :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixWinchester&layout=compact&theme=vision-friendly-dark)
