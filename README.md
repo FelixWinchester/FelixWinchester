@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
-- :books: I am in my 3rd year of university and am currently on the lookout for something I will enjoy working with in the future. I can't decide once and for sure what attracts me more: Computer Security, Java Development or Machine Learning....
+- :books: I am currently in my 3rd year at the university and I want to become a computer security or machine learning specialist
 
 - :skull_and_crossbones: Trying to survive
 
