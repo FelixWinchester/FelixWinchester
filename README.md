@@ -45,10 +45,9 @@
 <img src = "https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title = "Arch" alt = "Arch" width = "40" height = "40"/>&nbsp;
 
 </div>
-
+<!--
 ---
-
-<!-- ### :snowflake: My stats :
+### :snowflake: My stats :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixWinchester&layout=compact&theme=vision-friendly-dark) -->
 
 
