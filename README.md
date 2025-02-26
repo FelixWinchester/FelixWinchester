@@ -30,10 +30,6 @@
 
 - :desktop_computer: OS: Arch Linux, Ubuntu, MacOS.
 
-<div align = "center">
-  <img src = "https://i.pinimg.com/originals/39/53/72/3953725f59702c293be5e887d35196cb.gif" width = "500" height = "375"/>
-</div>
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
