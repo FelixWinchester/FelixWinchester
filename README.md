@@ -31,7 +31,7 @@
 - :desktop_computer: OS: Arch Linux, Ubuntu, MacOS.
 
 <div align = "center">
-  <img src = "https://i.pinimg.com/originals/9a/ac/a1/9aaca1469b0871f89b12796c8f62ffd2.gif" width = "600" height = "300"/>
+  <img src = "https://i.pinimg.com/originals/39/53/72/3953725f59702c293be5e887d35196cb.gif" width = "500" height = "375"/>
 </div>
 
 ---
