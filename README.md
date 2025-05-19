@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
     <h1>
-      こんにちは
+      こんにちは | Hello | 안녕하세요
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
