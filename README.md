@@ -66,14 +66,6 @@
 
 ---
 
-### 🎶 Now Playing  
-
-<div align="center">
-  <img src="https://i.imgur.com/ZcY09r0.png" alt="IVOXYGEN — LUXOR" width="450"/>
-</div>
-
----
-
 ### 📊 GitHub Streak
 
 <div align="center">
