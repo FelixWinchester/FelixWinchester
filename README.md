@@ -66,14 +66,11 @@
 
 ---
 
-### 🎶 Now Playing
+### 🎶 Now Playing  
 
 <div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-    <img src="https://spotify-github-profile.vercel.app/api/spotify?uid=31attmtw4qglxar2i47dv7n4htha&cover_image=true&theme=black&background_color=000000&border_color=ffffff" alt="Now Playing" width="450"/>
-  </a>
+  <img src="https://spotify-now-playing-readme.vercel.app/api/spotify?track=IVOXYGEN%20-%20LUXOR&cover_image=true&theme=black&background_color=000000&border_color=ffffff" alt="Now Playing" width="450"/>
 </div>
-
 
 
 ---
