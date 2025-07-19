@@ -69,8 +69,7 @@
 
 ### 📌 Featured Projects
 
-- 🔒 [Simple Auth System](https://github.com/FelixWinchester/SimpleAuth) — A lightweight JWT authentication system built with Python  
-- 🤖 [ML Project Demo](https://github.com/FelixWinchester/MLProjectDemo) — Prototype machine learning project with data analysis tools  
+- tbc...
 
 ---
 
