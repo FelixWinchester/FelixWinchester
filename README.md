@@ -76,10 +76,15 @@
 
 ### 📖 Currently Learning
 
-- 🐍 Advanced Python (Asyncio, Clean Architecture, Type Hinting)  
-- 🛡️ Offensive Security Basics & Vulnerability Analysis  
-- 🤖 Machine Learning with PyTorch & scikit-learn  
-- 🐳 Docker, Deployment & Container Security  
+- 🌐 Modern Web Development & Responsive Design
+
+- 🛡️ Offensive Security Basics & Vulnerability Analysis
+
+- 🤖 Machine Learning with PyTorch & scikit-learn
+
+- 🐳 Docker, Deployment & Container Security
+
+- 🐧 Arch Linux & System Customization
 
 ---
 
