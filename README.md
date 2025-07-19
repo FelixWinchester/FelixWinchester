@@ -49,7 +49,6 @@
   <img src = "https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title = "XCode" width = "40" height = "40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title = "Photoshop" width = "40" height = "40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "Figma" width = "40" height = "40"/>&nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title = "Unreal Engine" width = "40" height = "40"/>&nbsp;
 </div>
 
 ---
