@@ -93,6 +93,8 @@
 
 - 📱 Application Development — developing mobile and desktop apps with user-friendly interfaces and high performance.
 
+- 🤖 Machine Learning — exploring data-driven models, building prototypes, and applying AI techniques to solve real-world problems.
+
 ---
 
 ### 📊 GitHub Streak
