@@ -69,9 +69,8 @@
 ### 🎶 Now Playing  
 
 <div align="center">
-  <img src="https://spotify-now-playing-readme.vercel.app/api/spotify?track=IVOXYGEN%20-%20LUXOR&cover_image=true&theme=black&background_color=000000&border_color=ffffff" alt="Now Playing" width="450"/>
+  <img src="https://i.imgur.com/ZcY09r0.png" alt="IVOXYGEN — LUXOR" width="450"/>
 </div>
-
 
 ---
 
