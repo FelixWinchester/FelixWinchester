@@ -52,11 +52,18 @@
 </div>
 
 ---
+
 ### 💻 Devices
 
-<div align = "center"
-  <img
+<div align="center">
+
+| Device      | Specs                                                      |
+|-------------|------------------------------------------------------------|
+| 🖥️ **PC**    | 🧠 Intel Core i7 11700F &nbsp;&nbsp; 🎮 GTX 1660 SUPER &nbsp;&nbsp; 💾 16GB DDR4 |
+| 💻 **Laptop** | 🍎 MacBook Air 2020 M1                                     |
+
 </div>
+
 
 ---
 
