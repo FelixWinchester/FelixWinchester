@@ -79,8 +79,6 @@
 
 - 🛡️ Offensive Security Basics & Vulnerability Analysis
 
-- 🤖 Machine Learning with PyTorch & scikit-learn
-
 - 🐳 Docker, Deployment & Container Security
 
 - 🐧 Arch Linux & System Customization
@@ -96,8 +94,6 @@
 - 🎮 Game Development — designing and creating games and interactive content using engines and modern tools.
 
 - 📱 Application Development — developing mobile and desktop apps with user-friendly interfaces and high performance.
-
-- 🤖 Machine Learning — exploring data-driven models, building prototypes, and applying AI techniques to solve real-world problems.
 
 ---
 
