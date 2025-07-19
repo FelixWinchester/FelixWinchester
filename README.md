@@ -85,10 +85,13 @@
 
 ### 💡 Interests & Tech Stack Highlights
 
-- 🛠️ Backend Development & API Design  
-- 🔐 System Security & Secure Coding Practices  
-- 📊 Data Analysis, Machine Learning Prototyping  
-- 🧩 Automation & DevOps Essentials  
+- 🌐 Web Development — building modern, responsive websites and applications using cutting-edge technologies and frameworks.
+
+- 🔒 Cybersecurity — implementing secure coding practices, data protection, and vulnerability analysis.
+
+- 🎮 Game Development — designing and creating games and interactive content using engines and modern tools.
+
+- 📱 Application Development — developing mobile and desktop apps with user-friendly interfaces and high performance.
 
 ---
 
