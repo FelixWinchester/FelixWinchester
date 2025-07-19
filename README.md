@@ -12,25 +12,21 @@
 
 ---
 
-### 🕯️ About Me
+## 🖤 About Me
+
+> Alone, but not lonely.  
+> Quiet, but never silent.  
+> Present, yet always drifting.  
 
 - 💻 I write code to silence the noise
 - 🌌 I dwell in minimalism, monochrome, and meaning
 - 🕳️ I believe silence is louder than words
 - 🧩 I solve problems in the dark so others don’t have to
-- ❄️ Technologies: `Python`, `JavaScript`, `PostgreSQL`, `React`, `Node.js`, `Linux`
+- ⚙️ Tools: `Python`, `JavaScript`, `PostgreSQL`, `React`, `Node.js`, `Linux`
 
 ---
 
-### 🌑 My Skills
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,postgres,linux,git,github&theme=dark" />
-</div>
-
----
-
-### 🌫️ GitHub Stats
+## 🌫️ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=graywhite&hide_title=true&hide_border=true&icon_color=gray&text_color=gray" />
@@ -40,25 +36,46 @@
 
 ---
 
-### 🖤 Mood Today
+## ⌛ State of Being
 
 ```txt
-孤独 (Loneliness):      ██████████████████░░░░  80%
-Покой (Stillness):       ████████████░░░░░░░░░  60%
-Мрак (Dark):             ████████████████░░░░░  75%
+孤独 (Loneliness):      ███████████████████████  95%
+Покой (Stillness):       ██████████████░░░░░░░░  70%
+Тревога (Restlessness):  ███████░░░░░░░░░░░░░░░  35%
 ```
 
 ---
 
-### 📜 Words from the Void
+## 📜 Whispered Quotes
 
-> “The worst part about holding the memories is not the pain. It's the loneliness of it. Memories need to be shared.”
->
-> ― Lois Lowry, *The Giver*
+> “You cannot swim for new horizons until you have courage to lose sight of the shore.”  
+> ― William Faulkner
+
+> “The longer I stare into the void, the more it feels like home.”
+
+> “She was drowning, but nobody saw her struggle because she smiled while sinking.”
 
 ---
 
-### 🕸️ Find Me (if you must)
+## ⚰️ Projects of the Abyss
+
+| Project         | Description                          | Status     |
+|----------------|--------------------------------------|------------|
+| `vanish-log`   | Terminal logger fading into silence  | 🕯️ Finished |
+| `blackmirror`  | CLI tool for introspection logging   | ⚙️ Building |
+| `ashes-ui`     | React UI for grayscale dashboards    | 🌘 Prototype |
+
+---
+
+## 🧩 Skills & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,postgres,linux,git,github,vscode&theme=dark" />
+</div>
+
+---
+
+## 🕸️ Contact Me
 
 <p align="center">
   <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/email-111111?style=for-the-badge&logo=gmail&logoColor=gray" /></a>
@@ -68,8 +85,23 @@
 
 ---
 
+## 🖤 ASCII Reflection
+
+```
+          .       .      .     .      .        .
+      .         .     _____      .      .
+           .    /     \    .      .
+      .       . | () () |       .
+           .    \  ^  /   .    .    .
+         .     |||||     .    .     .
+      .       |||||   .
+          .   |||||     .      .
+```
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="400" alt="Melancholy" />
 </p>
 
-<p align="center"><em>We fade, not fall.</em></p>
+<p align="center"><em>We fade, not fall. You’re not alone in the void.</em></p>
