@@ -21,22 +21,42 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd year Computer Science student with a passion for **Cybersecurity** and **Machine Learning**  
-- 💻 Daily OS: Arch Linux / Ubuntu / macOS  
-- 🕹️ Lifelong learner, gamer, language enthusiast  
-- 🧩 Constantly exploring new technologies  
+- 🎓 3rd year Computer Science student with a passion for **Cybersecurity**, **Web** and **Application development**.
+- 💻 OS: Arch Linux / macOS  
+- 🕹️ I like to listen to music, learn new things and look at the stars.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch Linux" width="40" height="40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title = "Vue.js" width = "40" height = "40'/>&nbsp;
+</div>
+
+---
+
+### 🎧 Software
+
+<div align = "center">
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCode" width = "40" height = "40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title = "XCode" width = "40" height = "40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title = "Photoshop" width = "40" height = "40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "Figma" width = "40" height = "40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title = "Unreal Engine" width = "40" height = "40"/>&nbsp;
+</div>
+
+---
+### 💻 Devices
+
+<div align = "center"
+  <img
 </div>
 
 ---
