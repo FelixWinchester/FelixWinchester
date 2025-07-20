@@ -35,7 +35,7 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
 
 ---
 
-### 🛠️ Languages
+### 🛠️ **Technology stack**
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
