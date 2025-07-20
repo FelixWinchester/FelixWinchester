@@ -21,9 +21,17 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd year Computer Science student with a passion for **Cybersecurity**, **Web** and **Application development**.
-- 💻 OS: Arch Linux / macOS  
-- 🕹️ I like to listen to music, learn new things and look at the stars.
+I'm a self-driven developer, currently combining my studies with personal projects.  
+I enjoy exploring different areas of technology — from **fullstack web development** and **application design** to **cybersecurity** and **machine learning**.  
+
+🔹 I’m passionate about solving complex problems and learning new technologies.  
+🔹 My main languages are **Python**, **Java**, **JavaScript**, and **Swift**.  
+🔹 Currently deepening my skills in **Vue.js** and mobile app development.  
+🔹 I’m aiming to grow into a **team leader** or **senior developer**, and beyond.  
+🔹 Actively working on two startup projects.  
+
+Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
+
 
 ---
 
