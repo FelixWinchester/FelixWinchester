@@ -22,10 +22,10 @@
 ### 👨‍💻 About Me
 
 I'm a self-driven developer, currently combining my studies with personal projects.  
-I enjoy exploring different areas of technology — from **fullstack web development** and **application design** to **cybersecurity** and **machine learning**.  
+I enjoy exploring different areas of technology — from **fullstack web development** and **application design** to **cybersecurity** 
 
 🔹 I’m passionate about solving complex problems and learning new technologies.  
-🔹 My main languages are **Python**, **Java**, **JavaScript**, and **Swift**.  
+🔹 My main languages are **Python**, **Java** and **JavaScript** 
 🔹 Currently deepening my skills in **Vue.js** and mobile app development.  
 🔹 I’m aiming to grow into a **team leader** or **senior developer**, and beyond.  
 🔹 Actively working on two startup projects.  
