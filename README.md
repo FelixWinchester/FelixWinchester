@@ -103,7 +103,7 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
   <img src="https://github-readme-stats.vercel.app/api?username=FelixWinchester&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<h2 align="center">📕 Самые используемые языки 📕</h2>
+<h2 align="center">📕 Most used languages 📕</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixWinchester&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
