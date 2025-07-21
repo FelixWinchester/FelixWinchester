@@ -97,7 +97,7 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
 ### 🔥 Моя активность на GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelixWinchester&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Winchester&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
