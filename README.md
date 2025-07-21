@@ -19,7 +19,7 @@
 
 ---
 
-### 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
 I'm a self-driven developer, currently combining my studies with personal projects.  
 I enjoy exploring different areas of technology — from **fullstack web development** and **application design** to **cybersecurity** 
@@ -35,7 +35,8 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
 
 ---
 
-### 🛠️ **Technology stack**
+<h2 align="center">🛠️ Technology stack 🛠️</h2>
+
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
@@ -50,7 +51,8 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
 
 ---
 
-### 🎧 Software
+<h2 align="center">🎧 Software 🎧</h2>
+
 
 <div align = "center">
   <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "VSCode" width = "40" height = "40"/>&nbsp;
@@ -60,7 +62,9 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
 </div>
 
 ---
-### 📚 Learning now
+
+<h2 align="center">📚 Learning now 📚</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/SWIFT-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge" />
   <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" />
@@ -69,7 +73,7 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
 
 ---
 
-### 💻 Devices
+<h2 align="center">💻 Devices 💻</h2>
 
 <div align="center">
 
