@@ -17,7 +17,6 @@
   <img src="https://i.pinimg.com/originals/e2/76/c3/e276c3e600c1f4ac9da417d7a2beaf65.gif" width="600" height="300"/>
 </div>
 
----
 
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
@@ -33,8 +32,6 @@ I enjoy exploring different areas of technology — from **fullstack web develop
 Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
 
 
----
-
 <h2 align="center">🛠️ Technology stack 🛠️</h2>
 
 
@@ -49,7 +46,6 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
   <img src = "https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title = "Vue.js" width = "40" height = "40"/>&nbsp;
 </div>
 
----
 
 <h2 align="center">🎧 Software 🎧</h2>
 
@@ -61,7 +57,6 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
   <img src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title = "Figma" width = "40" height = "40"/>&nbsp;
 </div>
 
----
 
 <h2 align="center">📚 Learning now 📚</h2>
 
@@ -71,7 +66,6 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
   <img src="https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js Badge" />
 </p>
 
----
 
 <h2 align="center">💻 Devices 💻</h2>
 
@@ -84,28 +78,11 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
 
 </div>
 
-
----
-
-### 📌 Featured Projects
+<h2 align="center">📌 Featured Projects 📌</h2>
 
 - tbc...
 
----
-
-### 📖 Currently Learning
-
-- 🌐 Modern Web Development & Responsive Design
-
-- 🛡️ Offensive Security Basics & Vulnerability Analysis
-
-- 🐳 Docker, Deployment & Container Security
-
-- 🐧 Arch Linux & System Customization
-
----
-
-### 💡 Interests & Tech Stack Highlights
+<h2 align="center">💡 Interests & Tech Stack Highlights 💡</h2>
 
 - 🌐 Web Development — building modern, responsive websites and applications using cutting-edge technologies and frameworks.
 
@@ -115,9 +92,8 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
 
 - 📱 Application Development — developing mobile and desktop apps with user-friendly interfaces and high performance.
 
----
 
-### 📊 GitHub Streak
+<h2 align="center">📊 GitHub Streak 📊</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelixWinchester&theme=tokyonight" alt="GitHub Streak"/>
