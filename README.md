@@ -92,6 +92,7 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
 
 - 📱 Application Development — developing mobile and desktop apps with user-friendly interfaces and high performance.
 
+---
 
 ### 📊 GitHub Streak 📊
 
