@@ -93,7 +93,7 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
 - 📱 Application Development — developing mobile and desktop apps with user-friendly interfaces and high performance.
 
 
-<h2 align="center">📊 GitHub Streak 📊</h2>
+### 📊 GitHub Streak 📊
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelixWinchester&theme=tokyonight" alt="GitHub Streak"/>
