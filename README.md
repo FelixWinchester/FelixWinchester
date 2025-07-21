@@ -60,7 +60,7 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
 </div>
 
 ---
-<h2 align="center">📚 Изучаю сейчас 📚</h2>
+### 📚 Learning now
 <p align="center">
   <img src="https://img.shields.io/badge/SWIFT-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge" />
   <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" />
