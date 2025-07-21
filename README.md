@@ -96,28 +96,28 @@ Outside of coding, I enjoy **movies**, **gaming**, and **music production**.
 
 <h2 align="center">🔥 Моя активность на GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ТВОЙ_НИК&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FelixWinchester&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 <h2 align="center">📊 GitHub Статистика</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelixWinchester&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
 <h2 align="center">💻 Самые используемые языки</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixWinchester&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 <h2 align="center">📈 График активности</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ТВОЙ_НИК&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FelixWinchester&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
