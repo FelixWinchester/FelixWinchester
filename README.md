@@ -65,7 +65,7 @@ I specialize in building scalable microservices and native mobile applications. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" title="Firebase" />
 </div>
 
-### 🚀 DevOps & Tools
+### 🚀 DevOps
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker" />
   <img width="12" />
@@ -84,13 +84,18 @@ I specialize in building scalable microservices and native mobile applications. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" title="Postman" />
-  <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+ 
+</div>
+
+### 🛠️ IDE
+<div align = "center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="50" alt="Xcode" title="Xcode" />
 </div>
+
 
 ---
 
