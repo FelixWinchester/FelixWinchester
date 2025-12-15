@@ -20,7 +20,13 @@
 
 > *Backend Engineer & iOS Developer focused on High-Load Systems.*
 
-I specialize in building scalable microservices and native mobile applications. Currently working on startup projects and deepening my knowledge in distributed systems.
+I specialize in building **scalable backend services** and **native iOS applications**.  
+My primary interests include:
+- high-load and distributed systems
+- microservice architecture
+- performance, reliability, and clean system design
+
+Currently working on startup projects and continuously deepening my knowledge in **distributed systems and infrastructure**.
 
 ---
 
@@ -84,28 +90,16 @@ I specialize in building scalable microservices and native mobile applications. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" title="Postman" />
- 
 </div>
 
 ### 🛠️ IDE
-<div align = "center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="50" alt="Xcode" title="Xcode" />
 </div>
-
-
----
-
-<h2 align="center">📌 Key Projects</h2>
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| 🚀 **High-Load Service** | `Go`, `gRPC`, `Redis` | A microservice handling concurrent requests with optimized caching patterns. |
-| 📱 **iOS E-Commerce** | `SwiftUI`, `Combine` | Native mobile application with clean MVVM architecture and offline mode. |
-| 🛡️ **Auth System** | `Java`, `Spring Security` | Centralized OAuth2 authorization server for distributed systems. |
 
 ---
 
