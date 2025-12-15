@@ -1,22 +1,14 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/e2/76/c3/e276c3e600c1f4ac9da417d7a2beaf65.gif" width="600" height="250"/>
-  
-  <br>
-
   <h1>
-    Backend & Mobile Engineer 
-    <img src="https://media.giphy.com/media/WGErR14K7xHj3YfK8Z/giphy.gif" width="40px" alt="Rocket GIF"/>
+    Backend & Mobile Engineer
   </h1>
-  <p>こんにちは | Building scalable systems with Go, Java, and Swift.</p>
-
-  <div id="badges">
-    <img src="https://img.shields.io/badge/Status-Actively_Building_Startups-blueviolet?style=for-the-badge" alt="Status Badge"/>
-    </div>
+  <p>こんにちは | Crafting robust systems with Go, Java & native iOS apps with Swift.</p>
 
   <br>
 
-  <div id="contacts">
-    <a href="mailto:your-email@example.com">
+  <div id="status-and-contact">
+    <img src="https://img.shields.io/badge/Status-Actively_Building_Startups-blueviolet?style=for-the-badge" alt="Status Badge"/>
+    &nbsp; &nbsp; <a href="mailto:your-email@example.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
     <a href="https://linkedin.com/in/yourprofile">
@@ -26,13 +18,7 @@
       <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
   </div>
-</div>
 
-  <h1>こんにちは <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-</div>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/e2/76/c3/e276c3e600c1f4ac9da417d7a2beaf65.gif" width="600" height="300"/>
 </div>
 
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
