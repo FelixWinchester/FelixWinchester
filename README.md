@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=9eceff&center=true&vCenter=true&width=500&lines=Felix+Winchester" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=9eceff&center=true&vCenter=true&width=500&lines=Felix+Winchester" alt="Typing SVG" />
   </a>
 
   <div id="badges">
@@ -33,12 +33,12 @@ I specialize in building scalable microservices and native mobile applications. 
 
 ### 🏗️ Backend & Infrastructure
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,grpc,postgres,redis,mongo,kafka,nginx" height="50" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=spring,postgres,redis,mongodb,kafka,nginx" height="50" alt="backend" />
 </div>
 
 ### 📱 Mobile & Apple Ecosystem
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,apple,xcode,firebase" height="50" alt="mobile" />
+  <img src="https://skillicons.dev/icons?i=swift,apple,firebase" height="50" alt="mobile" />
 </div>
 
 ### 🚀 DevOps & Tools
@@ -68,6 +68,5 @@ I specialize in building scalable microservices and native mobile applications. 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="border-radius: 10px;">
-  
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077FF&height=100&section=footer&fontSize=0" width="100%"/>
+</div>
