@@ -1,25 +1,26 @@
 <div id="header" align="center">
-  <h1>
-    Backend & Mobile Engineer
-  </h1>
-  <p>こんにちは | Crafting robust systems with Go, Java & native iOS apps with Swift.</p>
-
-  <br>
-
-  <div id="status-and-contact">
-    <img src="https://img.shields.io/badge/Status-Actively_Building_Startups-blueviolet?style=for-the-badge" alt="Status Badge"/>
-    &nbsp; &nbsp; <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-    <a href="https://linkedin.com/in/yourprofile">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  
+  <div id="badges">
+    <a href="https://vk.com/anthony_winchester">
+      <img src="https://img.shields.io/badge/VKontakte-gray?logo=vk&logoColor=white&style=for-the-badge" alt="VK Badge"/>
     </a>
     <a href="https://telegram.me/anthony_winchester">
       <img src="https://img.shields.io/badge/Telegram-grey?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
     </a>
   </div>
 
+  <h1>
+    Felix Winchester 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/profile-visitors.svg" alt="Visitors" width="30px"/> 
+  </h1>
+  <p>こんにちは</p>
+
 </div>
+
+
+
+
+
 
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
