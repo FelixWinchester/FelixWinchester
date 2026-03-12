@@ -1,6 +1,6 @@
 <div align="center">
 
-# Felix Winchester
+# Anton Smyslov
 
 **Backend Engineer · Go · High-Load Systems · OCR/CV Hobbyist**
 
