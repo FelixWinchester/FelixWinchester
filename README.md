@@ -1,11 +1,14 @@
 <div align="center">
 
-# Anton Smyslov
+# Felix Winchester
 
 **Backend Engineer · Go · High-Load Systems · OCR/CV Hobbyist**
 
 [![VK](https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/anthony_winchester)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://telegram.me/anthony_winchester)
+[![Email](https://img.shields.io/badge/waltzforlovers@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:waltzforlovers@gmail.com)
+
+![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-00B37E?style=for-the-badge)
 
 </div>
 
@@ -31,6 +34,8 @@ Currently deepening my expertise in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50" alt="Go" title="Go" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Bash" title="Bash" />
 </div>
 
 ### Backend & Databases
