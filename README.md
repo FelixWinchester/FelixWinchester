@@ -112,3 +112,7 @@ Currently deepening my expertise in:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FelixWinchester&theme=tokyonight&hide_border=true" height="160"/>
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelixWinchester&theme=tokyonight" height="160"/>
+</div>
