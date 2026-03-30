@@ -110,6 +110,6 @@ Currently deepening my expertise in:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelixWinchester&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide_title=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixWinchester&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide_title=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FelixWinchester&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide_title=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixWinchester&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide_title=true&cache_seconds=1800" height="160"/>
 </div>
