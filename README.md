@@ -95,6 +95,16 @@ Currently deepening my expertise in:
 
 `Go` `Spotify Web API` `OAuth 2.0` `CLI`
 
+### 🏋️ [SsuBench](https://github.com/FelixWinchester/_SSUbench)
+> REST API платформа для управления абонементами и транзакциями спортзала, написанная на Go.
+
+- JWT-аутентификация с ролевой моделью (admin / member) и middleware-стеком (request_id, logger, recover)
+- Атомарные транзакции оплаты через pgx/v5 без ORM — raw SQL + golang-migrate для миграций
+- 14 юнит-тестов с testify/mock; OpenAPI-спецификация и подробный README с curl-примерами
+- Graceful shutdown, chi-роутер, scany для маппинга строк в структуры
+
+`Go` `PostgreSQL` `pgx/v5` `chi` `JWT` `REST API`
+
 ---
 
 ## 📊 GitHub Stats
