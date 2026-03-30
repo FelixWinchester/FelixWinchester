@@ -96,12 +96,12 @@ Currently deepening my expertise in:
 `Go` `Spotify Web API` `OAuth 2.0` `CLI`
 
 ### 🏋️ [SsuBench](https://github.com/FelixWinchester/_SSUbench)
-> REST API платформа для управления абонементами и транзакциями спортзала, написанная на Go.
+> REST API platform for gym membership and transaction management, written in Go.
 
-- JWT-аутентификация с ролевой моделью (admin / member) и middleware-стеком (request_id, logger, recover)
-- Атомарные транзакции оплаты через pgx/v5 без ORM — raw SQL + golang-migrate для миграций
-- 14 юнит-тестов с testify/mock; OpenAPI-спецификация и подробный README с curl-примерами
-- Graceful shutdown, chi-роутер, scany для маппинга строк в структуры
+- JWT authentication with role-based access control (admin / member) and middleware stack (request_id, logger, recover)
+- Atomic payment transactions via pgx/v5 without ORM — raw SQL + golang-migrate for migrations
+- 14 unit tests with testify/mock; OpenAPI specification and detailed README with curl examples
+- Graceful shutdown, chi router, scany for row-to-struct mapping
 
 `Go` `PostgreSQL` `pgx/v5` `chi` `JWT` `REST API`
 
