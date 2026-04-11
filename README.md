@@ -2,7 +2,7 @@
 
 # Anton Smyslov
 
-**Backend Engineer · Go · High-Load Systems · OCR/CV Hobbyist**
+**Backend Engineer · Go · Rust · High-Load Systems**
 
 [![VK](https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/anthony_winchester)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://telegram.me/anthony_winchester)
@@ -16,14 +16,12 @@
 
 ## 👨‍💻 About Me
 
-Backend engineer focused on building scalable services in **Go**. Passionate about clean architecture, distributed systems, and high-load design patterns.
-
-On the side, I explore **OCR and Computer Vision** as a hobby — working with text recognition pipelines and image processing.
+Backend engineer focused on building scalable services in **Go** and **Rust**. Passionate about clean architecture, distributed systems, and high-load design patterns.
 
 Currently deepening my expertise in:
 - Go concurrency patterns and performance optimization
 - Microservice architecture and distributed systems design
-- OCR pipelines and CV algorithms (hobby projects)
+- Systems programming with Rust
 
 ---
 
@@ -32,6 +30,8 @@ Currently deepening my expertise in:
 ### Core Languages
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50" alt="Go" title="Go" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" alt="Rust" title="Rust" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
 </div>
@@ -43,6 +43,22 @@ Currently deepening my expertise in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis" title="Redis" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="Kafka" title="Apache Kafka" />
+</div>
+
+#### Rust Ecosystem
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tokio/tokio-original.svg" height="50" alt="Tokio" title="Tokio" />
+  <img width="12" />
+</div>
+
+> **Axum · Actix-web · Serde · SQLx** — text badges below since devicons doesn't have all of these
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Actix--web-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Serde-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLx-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </div>
 
 ### Infrastructure & Observability
@@ -61,15 +77,6 @@ Currently deepening my expertise in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" title="Postman" />
-</div>
-
-### OCR & Computer Vision <sub>(hobby)</sub>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV" title="OpenCV" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" title="PyTorch" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" title="NumPy" />
 </div>
 
 ### 📚 Learning Next
@@ -108,6 +115,10 @@ Currently deepening my expertise in:
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelixWinchester&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=FelixWinchester&theme=tokyonight&hide_border=true" height="160"/>
