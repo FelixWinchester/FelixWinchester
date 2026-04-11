@@ -114,10 +114,6 @@ Currently deepening my expertise in:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=FelixWinchester&show_icons=true&theme=tokyonight&hide_border=true"](https://github-readme-stats-git-master-grubersjoe.vercel.app/api?username=FelixWinchester&show_icons=true&theme=tokyonight&hide_border=true) height="160"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=FelixWinchester&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
