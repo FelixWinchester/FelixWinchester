@@ -47,18 +47,15 @@ Currently deepening my expertise in:
 
 #### Rust Ecosystem
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tokio/tokio-original.svg" height="50" alt="Tokio" title="Tokio" />
+  <img src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white" height="50" alt="Tokio" title="Tokio" />
   <img width="12" />
-</div>
-
-> **Axum · Actix-web · Serde · SQLx** — text badges below since devicons doesn't have all of these
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Actix--web-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Serde-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLx-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white" height="50" alt="Axum" title="Axum" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Actix--web-000000?style=flat-square&logo=rust&logoColor=white" height="50" alt="Actix-web" title="Actix-web" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Serde-000000?style=flat-square&logo=rust&logoColor=white" height="50" alt="Serde" title="Serde" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SQLx-000000?style=flat-square&logo=rust&logoColor=white" height="50" alt="SQLx" title="SQLx" />
 </div>
 
 ### Infrastructure & Observability
