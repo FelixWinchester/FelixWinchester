@@ -4,8 +4,8 @@
 
 **Backend Engineer · Go · Rust · High-Load Systems**
 
-[![VK](https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/anthony_winchester)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://telegram.me/anthony_winchester)
+[![VK](https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/waltzforlovers)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://telegram.me/waltzforlovers)
 [![Email](https://img.shields.io/badge/waltzforlovers@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:waltzforlovers@gmail.com)
 
 ![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-00B37E?style=for-the-badge)
