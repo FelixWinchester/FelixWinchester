@@ -30,7 +30,6 @@ ML Engineer and Backend Developer, building both intelligent systems and scalabl
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="50" alt="SQL" title="SQL" />
 </div>
 
 ### ML / AI
