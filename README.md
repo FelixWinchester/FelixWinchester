@@ -2,7 +2,7 @@
 
 # Anton Smyslov
 
-**· ML & Backend Engineer · **
+**ML & Backend Engineer · Go · Rust**
 
 [![VK](https://img.shields.io/badge/VK-0077FF?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/waltzforlovers)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://telegram.me/waltzforlovers)
