@@ -16,12 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Backend engineer focused on building scalable services in **Go** and **Rust**. Passionate about clean architecture, distributed systems, and high-load design patterns.
-
-Currently deepening my expertise in:
-- Go concurrency patterns and performance optimization
-- Microservice architecture and distributed systems design
-- Systems programming with Rust
+ML Engineer and Backend Developer, building both intelligent systems and scalable services in Go and Rust. Passionate about clean architecture, distributed systems, and bringing ML models to production.
 
 ---
 
@@ -34,6 +29,21 @@ Currently deepening my expertise in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="50" alt="Rust" title="Rust" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="50" alt="SQL" title="SQL" />
+</div>
+
+### ML / AI
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="PyTorch" title="PyTorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="Keras" title="Keras" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="Scikit-learn" title="Scikit-learn" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="OpenCV" title="OpenCV" />
+  <img width="12" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" alt="HuggingFace" title="HuggingFace Transformers" />
 </div>
 
 ### Backend & Databases
@@ -45,22 +55,11 @@ Currently deepening my expertise in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="Kafka" title="Apache Kafka" />
 </div>
 
-#### Rust Ecosystem
-<div align="center">
-  <img src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white" height="50" alt="Tokio" title="Tokio" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white" height="50" alt="Axum" title="Axum" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Actix--web-000000?style=flat-square&logo=rust&logoColor=white" height="50" alt="Actix-web" title="Actix-web" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Serde-000000?style=flat-square&logo=rust&logoColor=white" height="50" alt="Serde" title="Serde" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SQLx-000000?style=flat-square&logo=rust&logoColor=white" height="50" alt="SQLx" title="SQLx" />
-</div>
-
 ### Infrastructure & Observability
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes" title="Kubernetes" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" title="Linux" />
   <img width="12" />
@@ -74,6 +73,8 @@ Currently deepening my expertise in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" title="Postman" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" title="Jupyter" />
 </div>
 
 ### 📚 Learning Next
